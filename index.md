@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-permalink: /
+permalink: /portfolio
 ---
 
 <style>
